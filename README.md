@@ -8,6 +8,7 @@
 
 ## Plugin-1
 Name : Dynamic Tag - Post Category URL
+
 A simple Elementor dynamic tag plugin that allows you to display the URL of the first category of a WordPress post.
 
 ### Description
@@ -47,6 +48,7 @@ A: The plugin is designed to work with any WordPress theme that supports Element
 ---
 ## Plugin 2
 Name : Woo Custom Shipping Zones
+
 A simple WordPress plugin that customizes shipping zones in WooCommerce for specific regions in Hong Kong.
 
 ### Description
