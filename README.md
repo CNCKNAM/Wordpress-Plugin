@@ -1,12 +1,13 @@
 # WordPress Plugins
 
 ## Table of Contents
-- [Plugin 1 : Dynamic Tag - Post Category URL](#plugin-1-dynamic-tag---post-category-url)
-- [Plugin 2 : Woo Custom Shipping Zones](#plugin-2-woo-custom-shipping-zones)
+- [Plugin 1 : Dynamic Tag - Post Category URL](#plugin-1)
+- [Plugin 2 : Woo Custom Shipping Zones](#plugin-2)
 
 ---
 
-## Plugin 1 : Dynamic Tag - Post Category URL
+## Plugin-1
+Name : Dynamic Tag - Post Category URL
 A simple Elementor dynamic tag plugin that allows you to display the URL of the first category of a WordPress post.
 
 ### Description
@@ -44,7 +45,8 @@ A: After activating the plugin, find the **"Related Post Category URL"** tag in 
 A: The plugin is designed to work with any WordPress theme that supports Elementor.
 
 ---
-## Plugin 2 : Woo Custom Shipping Zones
+## Plugin 2
+Name : Woo Custom Shipping Zones
 A simple WordPress plugin that customizes shipping zones in WooCommerce for specific regions in Hong Kong.
 
 ### Description
