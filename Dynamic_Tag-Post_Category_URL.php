@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Post_Category_Dynamic_Tag
+ * Plugin Name: Post Category Dynamic Tag
 */
 
 class Elementor_Post_Category_Tag extends \Elementor\Core\DynamicTags\Tag {
