@@ -106,6 +106,11 @@ This plugin adds a dynamic tag to Elementor that allows you to display the main 
 3. Select "Product Category Main Description" from the list of dynamic tags.
 4. Save your changes and preview your post to see the product category description.
 
+### Image Reference
+![Product Category Description setting](ref_pic\Product_Category_Main _Description_Dynamic_Tag\product-category-description-setting.PNG)
+![Elementor Dynamic Tag](ref_pic\Product_Category_Main _Description_Dynamic_Tag\elementor-dynamic-tag.PNG)
+![Product Category Description view](ref_pic/Product_Category_Main _Description_Dynamic_Tag/elementor-dynamic-tag.PNG)
+
 ### Frequently Asked Questions
 
 **Q: What if there is no product category associated with the post?**  
