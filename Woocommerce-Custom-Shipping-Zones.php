@@ -1,6 +1,6 @@
 <?php
-/**
- * Plugin Name: woocommerce-custom-shipping-zones
+/*
+    Plugin Name: woocommerce-custom-shipping-zones
 */
 
 add_filter( 'woocommerce_states', 'techiepress_custom_shipping_zones' );
