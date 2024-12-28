@@ -108,7 +108,9 @@ This plugin adds a dynamic tag to Elementor that allows you to display the main 
 
 ### Image Reference 
 ![Product Category Description setting](ref_pic/Product_Category_Main_Description_Dynamic_Tag/product_category_description_setting.PNG)
+
 ![Elementor Dynamic Tag](ref_pic/Product_Category_Main_Description_Dynamic_Tag/elementor_dynamic_tag.PNG)
+
 ![Product Category Description view](ref_pic/Product_Category_Main_Description_Dynamic_Tag/product_category_description_view.PNG)
 
 ### Frequently Asked Questions
