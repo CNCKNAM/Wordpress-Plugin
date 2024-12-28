@@ -1,12 +1,45 @@
 # WordPress Plugins
 
 ## Table of Contents
-- [Plugin 1 : Dynamic Tag - Post Category URL](#plugin-1)
-- [Plugin 2 : Woo Custom Shipping Zones](#plugin-2)
+- [Plugin 1 : Woo Custom Shipping Zones](#plugin-1)
+- [Plugin 2 : Dynamic Tag - Post Category URL](#plugin-2)
+
+---
+## Plugin 1
+Name : Woo Custom Shipping Zones
+
+A simple WordPress plugin that customizes shipping zones in WooCommerce for specific regions in Hong Kong.
+
+### Description
+The **Custom Woo Shipping Zones** plugin allows you to define specific shipping zones for different areas in Hong Kong. This is particularly useful for businesses operating in Hong Kong who want to offer tailored shipping options based on the customer's location.
+
+### Features
+- Adds custom shipping zones for various districts in Hong Kong.
+- Easy to customize and extend if needed.
+- Compatible with WooCommerce.
+
+### Installation
+1. Download the plugin files.
+2. Upload the plugin folder to your WordPress installation's `/wp-content/plugins/` directory.
+3. Activate the plugin through the 'Plugins' menu in WordPress.
+4. The custom shipping zones will be available in the WooCommerce settings.
+
+### Usage
+After activating the plugin, you can configure your shipping zones by navigating to:
+1. WooCommerce > Settings.
+2. Click on the 'Shipping' tab.
+3. You will see the custom zones listed under the 'Shipping Zones' section.
+
+### Image Reference
+Default_Zones
+![Default_Zones](https://github.com/CNCKNAM/Wordpress-Plugin/blob/main/ref_pic/woo-custom-shipping-zones/default_zones.PNG)
+
+Plugin_Zones
+![Plugin_Zones](https://github.com/CNCKNAM/Wordpress-Plugin/blob/main/ref_pic/woo-custom-shipping-zones/plugin_zones.PNG)
 
 ---
 
-## Plugin-1
+## Plugin-2
 Name : Dynamic Tag - Post Category URL
 
 A simple Elementor dynamic tag plugin that allows you to display the URL of the first category of a WordPress post.
@@ -44,40 +77,3 @@ A: After activating the plugin, find the **"Related Post Category URL"** tag in 
 
 **Q: Is this plugin compatible with all themes?**  
 A: The plugin is designed to work with any WordPress theme that supports Elementor.
-
----
-## Plugin 2
-Name : Woo Custom Shipping Zones
-
-A simple WordPress plugin that customizes shipping zones in WooCommerce for specific regions in Hong Kong.
-
-### Description
-The **Custom Woo Shipping Zones** plugin allows you to define specific shipping zones for different areas in Hong Kong. This is particularly useful for businesses operating in Hong Kong who want to offer tailored shipping options based on the customer's location.
-
-### Features
-- Adds custom shipping zones for various districts in Hong Kong.
-- Easy to customize and extend if needed.
-- Compatible with WooCommerce.
-
-### Installation
-1. Download the plugin files.
-2. Upload the plugin folder to your WordPress installation's `/wp-content/plugins/` directory.
-3. Activate the plugin through the 'Plugins' menu in WordPress.
-4. The custom shipping zones will be available in the WooCommerce settings.
-
-### Usage
-After activating the plugin, you can configure your shipping zones by navigating to:
-1. WooCommerce > Settings.
-2. Click on the 'Shipping' tab.
-3. You will see the custom zones listed under the 'Shipping Zones' section.
-
-### Image Reference
-Default_Zones
-![Default_Zones](https://github.com/CNCKNAM/Wordpress-Plugin/blob/main/ref_pic/woo-custom-shipping-zones/default_zones.PNG)
-
-Plugin_Zones
-![Plugin_Zones](https://github.com/CNCKNAM/Wordpress-Plugin/blob/main/ref_pic/woo-custom-shipping-zones/plugin_zones.PNG)
-
-
-
-
