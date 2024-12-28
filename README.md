@@ -64,9 +64,9 @@ The **Dynamic Tag - Post Category URL** plugin integrates seamlessly with Elemen
 
 ### Image Reference
 
-![Related Post](ref_pic/Dynamic_Tag-Post_Category_URL_Pic/related_post.PNG)
+![Related Post](ref_pic/Dynamic_Tag_Post_Category_URL_Pic/related_post.PNG)
 
-![Text Button](ref_pic/Dynamic_Tag-Post_Category_URL_Pic/text_button.PNG)
+![Text Button](ref_pic/Dynamic_Tag_Post_Category_URL_Pic/text_button.PNG)
 
 ### Frequently Asked Questions
 
@@ -107,9 +107,9 @@ This plugin adds a dynamic tag to Elementor that allows you to display the main 
 4. Save your changes and preview your post to see the product category description.
 
 ### Image Reference 
-![Product Category Description setting](ref_pic/Product_Category_Main_Description_Dynamic_Tag/product-category-description-setting.PNG)
-![Elementor Dynamic Tag](ref_pic/Product_Category_Main_Description_Dynamic_Tag/elementor-dynamic-tag.PNG)
-![Product Category Description view](ref_pic/Product_Category_Main_Description_Dynamic_Tag/product-category-description-view.PNG)
+![Product Category Description setting](ref_pic/Product_Category_Main_Description_Dynamic_Tag/product_category_description_setting.PNG)
+![Elementor Dynamic Tag](ref_pic/Product_Category_Main_Description_Dynamic_Tag/elementor_dynamic_tag.PNG)
+![Product Category Description view](ref_pic/Product_Category_Main_Description_Dynamic_Tag/product_category_description_view.PNG)
 
 ### Frequently Asked Questions
 
